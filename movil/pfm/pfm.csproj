@@ -24,10 +24,10 @@
 		<ApplicationTitle>pfm</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.pfm</ApplicationId>
+		<ApplicationId>com.charpey.pfm</ApplicationId>
 
 		<!-- Versions -->
-		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+		<ApplicationDisplayVersion>1.1</ApplicationDisplayVersion>
 		<ApplicationVersion>1</ApplicationVersion>
 
 		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'ios'">11.0</SupportedOSPlatformVersion>
